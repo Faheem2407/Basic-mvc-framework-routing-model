@@ -1,3 +1,18 @@
 <?php
+require 'function.php';
+require 'routes/map.php';
 
-require 'views/index.view.php';
+
+
+
+
+
+
+
+
+
+
+
+
+
+

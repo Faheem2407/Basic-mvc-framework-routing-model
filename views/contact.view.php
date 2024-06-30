@@ -1,7 +1,7 @@
-<?php require 'views/header.view.php'; ?>
+<?php require 'layouts/header.php'; ?>
 
-<div class="container">
+<div class="container mt-3">
 	Welcome to Contact Page
 </div>
 	
-<?php require 'views/footer.view.php'; ?>
+<?php require 'layouts/footer.php'; ?>
